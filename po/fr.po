@@ -7,10 +7,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-17 16:35+0100\n"
-"PO-Revision-Date: 2024-02-17 17:08+0100\n"
+"POT-Creation-Date: 2024-02-18 14:23+0100\n"
+"PO-Revision-Date: 2024-02-18 14:37+0100\n"
 "Last-Translator: alberic89 <alberic89@gmx.com>\n"
-"Language-Team: French\n"
+"Language-Team: French \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,30 +26,14 @@ msgstr "Basculer sur ces applications avec Super + Tab"
 msgid "Add Rule"
 msgstr "Ajouter une application"
 
-#: prefs.js:281
-msgid "General"
-msgstr "Général"
+#: prefs.js:284
+msgid "Behavior"
+msgstr "Comportement"
 
-#: prefs.js:287
-msgid "Configure"
-msgstr "Configurer"
+#: prefs.js:292
+msgid "Show windows of all workspace"
+msgstr "Afficher les fenêtres de tous les espaces de travail"
 
-#: prefs.js:288
-msgid "Configure what the switch show"
-msgstr "Configurer ce que propose le sélecteur de tâche"
-
-#: prefs.js:296
-msgid "Show from all workspace"
-msgstr "Afficher depuis tous les espaces de travail"
-
-#: prefs.js:297
-msgid "Whether to show windows from all workspace or only current workspace"
-msgstr "Faut-il afficher les fenêtres de tous les espaces de travail dans le sélecteur"
-
-#: prefs.js:305
+#: prefs.js:300
 msgid "Show minimized windows"
 msgstr "Afficher les fenêtres minimisées"
-
-#: prefs.js:306
-msgid "Whether to show minimized windows in switch or not"
-msgstr "Faut-il afficher les fenêtres qui ont été minimisées par l´utilisateur dans le sélecteur"
